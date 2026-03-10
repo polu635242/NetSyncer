@@ -8,6 +8,7 @@
 /[Ll]ogs/
 # unity ignore file
 *.csproj
+!ConsoleApp/ConsoleApp.csproj
 *.unityproj
 *.sln
 *.user
